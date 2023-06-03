@@ -18,15 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: git Blog 성공 우하하하
+title: 김현정의 gitBlog 입니다.
 email: hyeomjeom@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  아직 수정 중 입니다.
 baseurl: "/gitBlog_hello2" # the subpath of your site, e.g. /blog
 url: "https://github.com/hj-keem.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: x
 github_username:  hj-keem
 
 # Build settings
